@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q.Console", "Q.Console\Q.Console.csproj", "{814D73BA-F6CA-41DF-8FBD-65EFCEA0010E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q.Graphs", "Q.Graphs\Q.Graphs.csproj", "{5168CF11-DDF4-43CC-A467-E429918D9EE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q.Simulators", "Q.Simulators\Q.Simulators.csproj", "{F5274806-AB72-4A3D-BAFA-56323D2A5A38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{814D73BA-F6CA-41DF-8FBD-65EFCEA0010E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{814D73BA-F6CA-41DF-8FBD-65EFCEA0010E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{814D73BA-F6CA-41DF-8FBD-65EFCEA0010E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5168CF11-DDF4-43CC-A467-E429918D9EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5168CF11-DDF4-43CC-A467-E429918D9EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5168CF11-DDF4-43CC-A467-E429918D9EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5168CF11-DDF4-43CC-A467-E429918D9EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5274806-AB72-4A3D-BAFA-56323D2A5A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5274806-AB72-4A3D-BAFA-56323D2A5A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5274806-AB72-4A3D-BAFA-56323D2A5A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5274806-AB72-4A3D-BAFA-56323D2A5A38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
